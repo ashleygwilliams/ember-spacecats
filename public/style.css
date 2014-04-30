@@ -1,0 +1,8 @@
+body {
+  color: #000;
+}
+.hint {
+  color: #ffc0cb;
+  text-align: right;
+  font-style: italic;
+}
